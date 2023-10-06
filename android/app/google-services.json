@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "523493283777",
+    "project_id": "emergency-ambulance-serv-48114",
+    "storage_bucket": "emergency-ambulance-serv-48114.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523493283777:android:aa3ac919d4e096e2894140",
+        "android_client_info": {
+          "package_name": "com.example.emergency_ambulance_system"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "523493283777-vbdsdp8gv71puvif64k97ptm1mlm83fo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHTaYfvuTD8hzKJ9WPFyeOWgEgY6mKQjU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "523493283777-vbdsdp8gv71puvif64k97ptm1mlm83fo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
