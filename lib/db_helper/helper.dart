@@ -14,7 +14,7 @@ class MyHelper{
      try {
    final credential=   await FirebaseAuth.instance.createUserWithEmailAndPassword(email: email, password: password);
      if(credential.user!.uid.isNotEmpty){
-       // Navigator.push(context,MaterialPageRoute(builder: (context)=>const SignIn()));
+       Navigator.push(context,MaterialPageRoute(builder: (context)=>const SignIn()));
      }
 
      else{
